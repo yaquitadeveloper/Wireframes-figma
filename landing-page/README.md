@@ -5,7 +5,7 @@ Este repositorio contiene el wireframe de una landing page diseñada para una co
 ---
 
 <p align="center">
-  <img src="./assets/wireframe.jpg" alt="Wireframe de la landing page" width="600"/>
+  <img src="./assets/landingPage.jpg" alt="Wireframe de landing Page" width="600"/>
 </p>
 
 ---
