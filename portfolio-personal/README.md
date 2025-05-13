@@ -64,4 +64,10 @@ Este wireframe representa la estructura visual de un portafolio web profesional,
 - Ideal para usarse como guía en la fase de diseño UI/UX (por ejemplo, en Figma).
 - Preparado para implementarse con enfoque mobile-first y responsive design.
 
-📁 Archivo: `/assets/wireframe-portfolio.png`
+---
+
+<p align="center">
+  <img src="./assets/portfolio.png" alt="Wireframe de portfolio personal" width="600"/>
+</p>
+
+---
