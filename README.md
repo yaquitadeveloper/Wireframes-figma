@@ -9,6 +9,7 @@ Cada carpeta representa un proyecto diferente e incluye los archivos exportados,
 - [`portfolio-personal/`](./portfolio-personal) – Wireframe para un portafolio personal.
 - [`ecommerce-tienda/`](./ecommerce-tienda) – Wireframes para una tienda online.
 - [`dashboard-admin/`](./dashboard-admin) – Wireframes para un panel de administración.
+- [`landing-page/`](./landing-page) – Wireframes para una Landing Page.
 
 ---
 
