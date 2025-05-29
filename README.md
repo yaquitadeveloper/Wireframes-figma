@@ -19,3 +19,13 @@ Cada carpeta representa un proyecto diferente e incluye los archivos exportados,
 2. Exporta tu wireframe desde Figma (PNG/JPG/SVG).
 3. Incluye un `README.md` explicando la estructura del diseño.
 4. (Opcional) Agrega un enlace al archivo de Figma.
+
+
+
+
+
+### 🎨 UI Kit en Figma para (Portafolio Personal)
+
+Puedes acceder al UI Kit completo utilizado en el wireframe (Portafolio) a través del siguiente enlace:
+
+[🔗 Ver UI Kit en Figma (Portafolio Personal)](https://www.figma.com/design/oTTJtaqyNZupjJgHws3Frf/Proyecto-Porfolio?node-id=0-1&t=uNVgZ4ncXVpW6bBi-1)
