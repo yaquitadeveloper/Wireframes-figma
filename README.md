@@ -29,3 +29,7 @@ Cada carpeta representa un proyecto diferente e incluye los archivos exportados,
 Puedes acceder al UI Kit completo utilizado en el wireframe (Portafolio) a través del siguiente enlace:
 
 [🔗 Ver UI Kit en Figma (Portafolio Personal)](https://www.figma.com/design/oTTJtaqyNZupjJgHws3Frf/Proyecto-Porfolio?node-id=0-1&t=uNVgZ4ncXVpW6bBi-1)
+
+### References
+
+* **Astro Frontend Example:** For a reference implementation in Astro, you can check out the [Frontend Tokens Figma repository](https://github.com/yaquitadeveloper/frontend-tokens-figma).
